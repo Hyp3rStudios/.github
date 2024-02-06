@@ -1,6 +1,7 @@
 \>\>\> booting hyperstudios...
 # Welcome.
 ## hyper studios
+![image](https://github.com/Hyp3rStudios/.github/assets/135276870/f705c14f-ae76-4e8b-bc01-49647d719e19)
 a very small group of people:
 - developers that code
 - media people that make videos
